@@ -1,0 +1,34 @@
+/*Styling the whole page*/
+body{
+    background-color: beige;
+    margin: 0;
+    padding: 20px;
+}
+
+/*Styling all h1 headings*/
+h1{
+    text-align: center;
+    color: saddlebrown;
+    font-family: 'Arial', sans-serif;
+    font-style: bold;
+}
+
+/*Styling all h2 headings*/
+h2{
+    color: maroon;
+    font-family: 'Arial', sans-serif;
+    text-indent: 2%;
+    font-style: bold;
+}
+
+/*Ensuring all bold words stand out*/
+b{
+    color: sienna;
+}
+
+/*Styling all paragraphs*/
+p{ max-width: 1050px; 
+    padding: 20px; 
+    margin: 20px; 
+    border: 2px solid saddlebrown;
+}
